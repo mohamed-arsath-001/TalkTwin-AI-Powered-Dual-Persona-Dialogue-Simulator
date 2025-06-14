@@ -40,20 +40,6 @@ To create an intuitive tool that lets users:
 
 ---
 
-## 📂 Folder Structure
-
-```
-TalkTwin-AI/
-├── app.py                  # Streamlit app entry point
-├── prompts.py              # Prompt engineering and templates
-├── utils.py                # Utility functions
-├── assets/                 # Images and static assets
-├── requirements.txt        # Python dependencies
-└── README.md               # Project overview
-```
-
----
-
 ## ⚙️ How to Run Locally
 
 ### 1. Clone the repository
@@ -124,8 +110,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to reach out if you're hiring, collaborating, or just curious about AI conversation engines:
 
-* 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
-* 📬 Email: [your.email@example.com](mailto:your.email@example.com)
+* 🌐 [LinkedIn](www.linkedin.com/in/bmohamedarsath)
+* 📬 Email: [your.email@example.com](mohamedarsathjb@gmail.com)
 
 ---
 
